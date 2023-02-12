@@ -1,1 +1,2 @@
 This is some content to mess up with later
+New line in here in file4.txt
