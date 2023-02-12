@@ -1,1 +1,2 @@
 File3.txt
+This is a bugfix
